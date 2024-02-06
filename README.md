@@ -62,15 +62,3 @@ To run this dashboard on your local system, follow these steps:
 ## License
 
 This project is open-source and available under the MIT License.
-
-## Contributing
-
-Contributions are welcome! If you have any ideas, improvements, or bug fixes, please feel free to open an issue or submit a pull request.
-
-## Contact
-
-For questions or feedback, you can reach out to the project owner:
-
-Akash Singh
-singhakashcu@gmail.com
-Project Link: https://github.com/MrAkash920/Stock_Price_Prediction_Dashboard
